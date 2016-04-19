@@ -1,0 +1,28 @@
+name: scbauer
+favicon: null
+layout_spectrum: 0.8996958660427481
+typography_spectrum: 0.4413594857323915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7017483310773969
+  lightness: 0.42961934278719127
+  saturation: 0.08310116361826658
+  rhythmicContrast: 0.39975625602528453
+purpose: []
